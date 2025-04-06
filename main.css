@@ -11,7 +11,7 @@ body {
     margin: 0 auto;
     padding: 20px;
     font-family:'Times New Roman', Times, serif;
-    background-color: #000000;
+    background-color: #795393;
 }
 
 h1 {
@@ -56,7 +56,7 @@ h1 {
 }
 
 .buttons button.selected {
-    background-color: #a60d7d; /* Darker shade of royal blue for selected button */
+    background-color: #9eccbe; /* Darker shade of royal blue for selected button */
     color: white;
 }
 
@@ -90,7 +90,7 @@ input[type="number"] {
 }
 
 .progress-bar {
-    background-color: #a60d7d;
+    background-color: #9eccbe;
     height: 100%;
     width: 0%;
     border-radius: 5px;
